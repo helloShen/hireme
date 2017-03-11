@@ -1,0 +1,13 @@
+/* 我的扩展包 */
+cite.green {
+    color: #18BC9C;
+}
+cite.light-green {
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+a.light {
+    color: #fff;
+}
